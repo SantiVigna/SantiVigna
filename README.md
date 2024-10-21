@@ -13,10 +13,6 @@ _In addition, I have a high level of English, which enables me to access resourc
 * Instagram: <a href="https://instagram.com/santivigna_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="santivigna_" height="30" width="40" /></a>
 
 ---
-## My Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SantiVigna&theme=highcontrast)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SantiVigna&layout=compact&theme=highcontrast)
----
 ## Technologies & Tools
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='html5' src='https://img.shields.io/badge/html5-100000?style=for-the-badge&logo=html5&logoColor=white&labelColor=FF6600&color=FF6600'/></a>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='css3' src='https://img.shields.io/badge/css3-100000?style=for-the-badge&logo=css3&logoColor=white&labelColor=0099FF&color=0099FF'/></a>
@@ -25,4 +21,8 @@ _In addition, I have a high level of English, which enables me to access resourc
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='discord' src='https://img.shields.io/badge/discord-100000?style=for-the-badge&logo=discord&logoColor=FFFFFF&labelColor=007BC3&color=007BC3'/></a>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='gmail' src='https://img.shields.io/badge/gmail-100000?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=D02727&color=D02727'/></a>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='github' src='https://img.shields.io/badge/github-100000?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=525252&color=525252'/></a>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SantiVigna&theme=highcontrast)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SantiVigna&layout=compact&theme=highcontrast)
+---
 
