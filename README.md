@@ -9,3 +9,8 @@ Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac tu
 
 * My Email: ynotvigna@gmail.com
 * 
+---
+![Santi's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=SantiVigna&show_icons=true&theme=dark#gh-dark-mode-only)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SantiVigna&layout=compact&theme=dark#gh-dark-mode-only)
+<br>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SantiVigna1&theme=highcontrast)](https://git.io/streak-stats)
