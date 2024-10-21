@@ -1,5 +1,3 @@
-<img src="https://github.com/user-attachments/assets/8d559331-7586-443a-9c5c-abf2ce69429f" height="200" width="600">
-
 ![Santino Vigna](https://github.com/user-attachments/assets/8d559331-7586-443a-9c5c-abf2ce69429f)
 
 ---
