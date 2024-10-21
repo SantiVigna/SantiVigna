@@ -9,6 +9,7 @@ Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac tu
 
 * My Email: ynotvigna@gmail.com
 * Instagram: <a href="https://instagram.com/santivigna_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="santivigna_" height="30" width="40" /></a>
+
 ---
 ## My Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SantiVigna&theme=highcontrast)](https://git.io/streak-stats)
@@ -19,5 +20,7 @@ Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac tu
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='css3' src='https://img.shields.io/badge/css3-100000?style=for-the-badge&logo=css3&logoColor=white&labelColor=0099FF&color=0099FF'/></a>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='javascript' src='https://img.shields.io/badge/javascript-100000?style=for-the-badge&logo=javascript&logoColor=EEFF00&labelColor=000000&color=000000'/></a>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='GIT' src='https://img.shields.io/badge/GIT-100000?style=for-the-badge&logo=GIT&logoColor=FFFFFF&labelColor=FF8D00&color=FF8D00'/></a>
-
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='discord' src='https://img.shields.io/badge/discord-100000?style=for-the-badge&logo=discord&logoColor=FFFFFF&labelColor=007BC3&color=007BC3'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='gmail' src='https://img.shields.io/badge/gmail-100000?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=D02727&color=D02727'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='github' src='https://img.shields.io/badge/github-100000?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=525252&color=525252'/></a>
 
