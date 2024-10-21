@@ -1,11 +1,11 @@
 ![Santino Vigna](https://github.com/user-attachments/assets/8d559331-7586-443a-9c5c-abf2ce69429f)
 
 ---
-Hola Soy Santino, tengo 18 años y soy argentino e italiano, actualmente viviendo en Málaga. Desde siempre fui un apasionado por el deporte y sobretodo el futbol, pero a lo largo de los años también he desarrollado un profundo interés por la tecnología y su capacidad para transformar el mundo que nos rodea.
+_Hi I'm Santino, I'm an 18-year-old man from Argentina, currently living in Málaga. I've always been passionate about sports, but over the years, I've also developed a deep interest in technology and its ability to transform the world around us._
 
-En este momento, estoy cursando el programa AWS Re/Start, lo que me permite adentrarme en el fascinante ecosistema de la computación en la nube. Este programa está ampliando mis conocimientos y me está proporcionando una base sólida en soluciones basadas en la nube, algo que considero fundamental para el futuro de la tecnología. Mi objetivo es seguir aprendiendo y aplicar estos conocimientos en proyectos reales que impacten de manera positiva.
+_At the moment, I’m studying the **AWS Re/Start** program, which is allowing me to dive into the fascinating world of cloud computing. This program is expanding my knowledge and providing me with a solid foundation in cloud-based solutions, something I believe is essential for the future of technology. My goal is to continue learning and apply these skills to real-world projects that have a positive impact._
 
-Además, tengo un nivel avanzado de inglés, lo que me permite acceder a recursos, contenidos y comunidades globales, ampliando así mis oportunidades de aprendizaje y colaboración. Me encanta trabajar en equipo y enfrentar nuevos desafíos que me permitan crecer tanto a nivel personal como profesional. Siempre estoy buscando maneras de combinar mi pasión por el deporte y la tecnología, explorando cómo la innovación puede mejorar el rendimiento deportivo y la experiencia de los aficionados.
+_In addition, I have a high level of English, which enables me to access resources, content, and global communities, further expanding my learning and collaboration opportunities. I enjoy working in teams and tackling new challenges that allow me to grow both personally and professionally. I'm always looking for ways to combine my passion for sports and technology, exploring how innovation can enhance sports performance and improve the fan experience._
 
 ## Contact Me
 
