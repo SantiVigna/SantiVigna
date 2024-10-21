@@ -1,4 +1,5 @@
-![Santino Vigna](https://github.com/user-attachments/assets/8d559331-7586-443a-9c5c-abf2ce69429f)
+![Banner Santino](https://github.com/user-attachments/assets/a9844c14-81de-4dbd-b4ab-f202addf1039)
+
 
 ---
 _Hi I'm Santino, I'm an 18-year-old man from Argentina, currently living in Málaga. I've always been passionate about sports, but over the years, I've also developed a deep interest in technology and its ability to transform the world around us._
